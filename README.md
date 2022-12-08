@@ -1,1 +1,1 @@
-# Village-Scenario
+# Village-Scenario (Computer Graphics Project)
